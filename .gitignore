@@ -1,0 +1,31 @@
+# Environment & API Keys (CRITICAL: Never commit secrets)
+.env
+.env.local
+.env.*.local
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Streamlit
+.streamlit/
+
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Temporary files & logs
+*.log
+scratch/
+.system_generated/
