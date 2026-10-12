@@ -1,10 +1,10 @@
-# 🎯 ResumeMatch AI — NLP-Powered ATS Resume Analyzer
+# ResumeMatch — NLP-Powered ATS Resume Analyzer
 
 An end-to-end NLP application that matches resumes to job descriptions, computes ATS compatibility scores, identifies skill gaps, and generates personalized improvement plans — powered by Google Gemini API.
 
 ---
 
-## 🚀 Features
+##  Features
 
 | Feature | Technology |
 |---|---|
@@ -19,7 +19,7 @@ An end-to-end NLP application that matches resumes to job descriptions, computes
 
 ---
 
-## 🧠 NLP Pipeline Architecture
+## NLP Pipeline Architecture
 
 ```
 [ Resume (PDF/TXT) ] + [ Job Description (text) ]
